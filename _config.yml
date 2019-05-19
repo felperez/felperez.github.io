@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Felipe Pérez"
 description              : &description "personal description"
