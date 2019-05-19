@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-## Research:
+# Research:
 
 **One dimensional dynamics:** for a sufficiently nice map of the unit interval $[0,1]$ and an invariant ergodic probability measure $\mu$, the Hausdorff dimension of such measure can be expressed as the quotient between the entropy $h$ and the Lyapunov exponent $\lambda$, that is, $ \operatorname{dim}_H \mu = \frac{h}{\lambda}$,  when the entropy is finite and the Lyapunov exponent is non-zero. Furthermore, it is known that the local dimension exists almost everywhere and it is also equal to $\frac{h}{\lambda}$. The case when the entropy and the Lyapunov exponent are both zero has been studied by Ledrappier-Misiurewicz and Katok, who constructed examples of such maps and measures for which the local dimension does not exist almost everywhere. I am interested in studying the case when both the entropy and the Lyapunov exponent are infinite.
 
