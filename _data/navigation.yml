@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Research, talks, notes"
     url: /research/
 
   - title: "Machine learning"
     url: /machine/
 
-  - title: "Reading"
+  - title: "Reading groups"
     url: /reading/
 
   - title: "Blog Posts"
