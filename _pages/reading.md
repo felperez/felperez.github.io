@@ -11,10 +11,10 @@ Here I will list the reading groups or seminars in which I will be participating
 
 | Date       | Speaker         | Description                                                   | Notes |
 | ---------- |:----------------|:--------------------------------------------------------------|:-----:|
-| 17/10      | Jimmy Tseng     | Symbolic spaces, Hausdorff dimension, Thermodynamic formalism | [here](https://github.com/felperez/felperez.github.io/files/sess1.pdf)|
-| 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | [here](https://github.com/felperez/felperez.github.io/files/sess2.pdf)|
-| 24/10      | Felipe Pérez    | Thermodynamic formalism                                       | [here](https://github.com/felperez/felperez.github.io/files/sess3.pdf)|
-| 24/10      | Felipe Pérez    | Iterated functions systems, transfer operator                 | [here](https://github.com/felperez/felperez.github.io/files/ses4.pdf)|
-| 24/10      | Thomas Jordan   | Julia sets, determinant formulas                              | [here](https://github.com/felperez/felperez.github.io/files/sess5.pdf)|
-| 24/10      | Felipe Pérez    | Zeta functions, zeroes counting                               | [here](https://github.com/felperez/felperez.github.io/files/sess6.pdf)|
+| 17/10      | Jimmy Tseng     | Symbolic spaces, Hausdorff dimension, Thermodynamic formalism | [here](/files/sess1.pdf)|
+| 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | [here](files/sess2.pdf)|
+| 24/10      | Felipe Pérez    | Thermodynamic formalism                                       | [here](/files/sess3.pdf)|
+| 24/10      | Felipe Pérez    | Iterated functions systems, transfer operator                 | [here](/files/ses4.pdf)|
+| 24/10      | Thomas Jordan   | Julia sets, determinant formulas                              | [here](/files/sess5.pdf)|
+| 24/10      | Felipe Pérez    | Zeta functions, zeroes counting                               | [here](/files/sess6.pdf)|
 | 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | Lost|
