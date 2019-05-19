@@ -19,15 +19,15 @@ When I am not working on mathematics, I am most likely coding. On my github I ha
 
 **Convolution and filters:** a detailed study: Access notebook [here](https://github.com/felperez/tensorflow/blob/master/kernel.ipynb). In this project we go through the nitty gritty aspect of convolutions and how they can be used to extract information from images.
 
-![Spectral clustering](/files/spectral1.jpg)
+![Spectral clustering](/files/spectral1.png)
 
 Concentric annuli dataset
 
 
-![Spectral clustering](/files/spectral2.jpg)
+![Spectral clustering](/files/spectral2.png)
 
 Spectral information of the Laplacian of the graph associated to the dataset
 
-![Spectral clustering](/files/spectral3.jpg)
+![Spectral clustering](/files/spectral3.png)
 
 Spectral clustering
