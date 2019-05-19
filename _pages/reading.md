@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Reading groups"
+permalink: /reading/
+author_profile: true
+---
+
+Here I will list the reading groups or seminars in which I will be participating/organising. I will also occasionally upload some notes taken at each of the seminars. My notes can (and will usually) be a bit sloppy, and I declare myself responsible for any mistakes in them.
+
+**Fractal Weyl laws. This reading group was held on the first term of year 2016-2017:**
+
+| Date       | Speaker         | Description                                                   | Notes |
+| ---------- |:----------------|:--------------------------------------------------------------|:-----:|
+| 17/10      | Jimmy Tseng     | Symbolic spaces, Hausdorff dimension, Thermodynamic formalism | [here]|
+| 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | [here]|

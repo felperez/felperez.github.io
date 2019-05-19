@@ -181,7 +181,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  reading:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _reading
   - scope:
       path: ""
-      type: portfolio
+      type: reading
     values:
       layout: single
       author_profile: true
