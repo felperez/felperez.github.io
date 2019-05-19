@@ -13,3 +13,11 @@ Here I will list the reading groups or seminars in which I will be participating
 | ---------- |:----------------|:--------------------------------------------------------------|:-----:|
 | 17/10      | Jimmy Tseng     | Symbolic spaces, Hausdorff dimension, Thermodynamic formalism | [here]|
 | 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | [here]|
+| 24/10      | Felipe Pérez    | Thermodynamic formalism                                       | [here]|
+| 24/10      | Felipe Pérez    | Iterated functions systems, transfer operator                 | [here]|
+| 24/10      | Thomas Jordan   | Julia sets, determinant formulas                              | [here]|
+| 24/10      | Felipe Pérez    | Zeta functions, zeroes counting                               | [here]|
+| 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | [here]|
+
+
+31/10
