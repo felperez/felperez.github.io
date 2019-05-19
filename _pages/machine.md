@@ -5,7 +5,7 @@ permalink: /machine/
 author_profile: true
 ---
 
-When I am not working on mathematics, I am most likely coding. On my github I have uploaded a number of Jupyter notebooks with the projects I have worked on:
+When I am not working on mathematics, I am most likely coding. On my [github](https://github.com/felperez) I have uploaded a number of Jupyter notebooks with the projects I have worked on:
 
 **Machine Learning Library:** Access repository [here](https://github.com/felperez/machine-learning). This project consists of a full library of implementations of the most popular Machine Learning algorithms, as well as detailed mathematical explanations of how they work. This includes algorithms like linear, multiple and polynomial regression, neural networks, k-nearest neighbors, k-means, linear and quadratic discrminant analysis, naive Bayes and support vector machines.
 
