@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Felipe Pérez"
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   bio              : "PhD in math candidate at the University of Bristol, currently visiting University of Houston"
   location         : "Houston, TX, US"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
