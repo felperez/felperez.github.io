@@ -18,3 +18,16 @@ When I am not working on mathematics, I am most likely coding. On my github I ha
 **Breast cancer detection:** Access repository [here](https://github.com/felperez/cancer-detection). In this project we built a model for recognizing whether a breast tumor is malignant or not, based on metric features associated to it. We made a multiple layers model, using algorithms suck as k-nearest neighbor, neural networks, gradient-boosted decision trees, and random forests. In the upper layers, we used stacking ideas to get a combined prediction from the models on the base layers.
 
 **Convolution and filters:** a detailed study: Access notebook [here](https://github.com/felperez/tensorflow/blob/master/kernel.ipynb). In this project we go through the nitty gritty aspect of convolutions and how they can be used to extract information from images.
+
+![Spectral clustering](/files/spectral1.jpg)
+
+Concentric annuli dataset
+
+
+![Spectral clustering](/files/spectral2.jpg)
+
+Spectral information of the Laplacian of the graph associated to the dataset
+
+![Spectral clustering](/files/spectral3.jpg)
+
+Spectral clustering
