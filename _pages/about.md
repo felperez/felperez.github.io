@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Felipe Pérez"
 excerpt: "Home"
 author_profile: true
 redirect_from:
