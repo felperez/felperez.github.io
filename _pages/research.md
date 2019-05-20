@@ -20,6 +20,8 @@ The results from the paper above show that it is possible to develop a theory in
 
 **Two dimensional dynamics**
 
+![Sierpinski triangle](/files/sierp.png)
+
 **Self-affine measures** for self-affine iterated functions systems (IFS), the Hausdorff dimension of the underlying self-affine set can be expressed in terms of the subadditive pressure (associated to the Falconer potential). The measures of equilibrium for such pressure are known as Käenmäki measures. I am interested in studying the statistical properties of such measures.
 
 # Talks and notes:
