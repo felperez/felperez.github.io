@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##**One dimensional dynamics**
+## One dimensional dynamics
 
 ![Gauss map](/files/gauss.png)
 
@@ -18,7 +18,7 @@ author_profile: true
 
 The results from the paper above show that it is possible to develop a theory in this setting.
 
-##**Two dimensional dynamics**
+## Two dimensional dynamics
 
 ![Sierpinski triangle](/files/sierp.png)
 
