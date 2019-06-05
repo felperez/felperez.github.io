@@ -36,6 +36,6 @@ The results from the paper above show that it is possible to develop a theory in
 
 **Sizing small sets:** [here](http://felperez.github.io/files/pps.pdf). These are the slides of a talk that I gave in the Pure Postgraduate Seminar. Here I introduce the notion of Hausdorff dimension and how can it be used to compare sizes of sets of measure zero. I present some number theoretical results concerning dimensions of certain sets, as well as sketch of the connection to dynamical systems and ergodic theory.
 
-**Chaos and order:** [here](http://felperez.github.io/files/chaos.pdf). This is the sketch of the talk that I have in the 3 Minute Thesis competition, which was chosen for the final stage. The video of the talk can be found here.
+**Chaos and order:** [here](http://felperez.github.io/files/chaos.pdf). This is the sketch of the talk that I have in the 3 Minute Thesis competition, which was chosen for the final stage. The video of the talk can be found [here](https://www.youtube.com/watch?v=W9WJXjCynx4&t=7s).
 
 **Infinite entropy and zero dimensional measures (poster):** [here](http://felperez.github.io/files/poster.pdf). This is a poster I presented at several conferences.
