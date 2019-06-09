@@ -27,3 +27,10 @@ Here I will list the reading groups or seminars in which I will be participating
 | 04/06      | Matt Nicol     | Martingale approximation | [here](/posts/2019/06/blog-post-6/)|
 | 05/06      | Andrew Török   | Quasi-compactness       | [here](/posts/2019/06/blog-post-8/)|
 | 06/06      | Will Ott       | Coupling                 | here|
+
+
+**Bowen's formula and transfer operators:** [here](/files/bowen.pdf). In these notes I present a sketch of the proof of the Bowen's formula for the Hausdorff dimension of the repeller of an IFS, as well as introducing notions of thermodynamic formalism.
+
+**Sizing small sets:** [here](/files/pps.pdf). These are the slides of a talk that I gave in the Pure Postgraduate Seminar. Here I introduce the notion of Hausdorff dimension and how can it be used to compare sizes of sets of measure zero. I present some number theoretical results concerning dimensions of certain sets, as well as sketch of the connection to dynamical systems and ergodic theory.
+
+**Chaos and order:** [here](/files/chaos.pdf). This is the sketch of the talk that I have in the 3 Minute Thesis competition, which was chosen for the final stage. The video of the talk can be found [here](https://www.youtube.com/watch?v=W9WJXjCynx4&t=7s).
