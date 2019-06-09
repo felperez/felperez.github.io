@@ -181,7 +181,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  reading:
+  notes:
     output: true
     permalink: /:collection/:path/
   contact:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _reading
+  # _notes
   - scope:
       path: ""
-      type: reading
+      type: notes
     values:
       layout: single
       author_profile: true
