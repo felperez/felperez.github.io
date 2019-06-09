@@ -23,7 +23,7 @@ Here I will list the reading groups or seminars in which I will be participating
 
 | Date       | Speaker         | Description                                                   | Notes |
 | ---------- |:----------------|:--------------------------------------------------------------|:-----:|
-| 03/06      | Matt Nicol     | Limit laws in Dynamical systems | [here](/_posts/2019-06-03-blog-post-5)|
-| 04/06      | Matt Nicol     | Martingale approximation | [here](/files/sess2.pdf)|
-| 05/06      | Andrew Török   | Thermodynamic formalism                                       | [here](/files/sess3.pdf)|
-| 06/06      | Will Ott       | Iterated functions systems, transfer operator                 | [here](/files/sess4.pdf)|
+| 03/06      | Matt Nicol     | Limit laws in Dynamical systems | [here](/posts/2019/06/blog-post-5/)|
+| 04/06      | Matt Nicol     | Martingale approximation | [here](/posts/2019/06/blog-post-6/)|
+| 05/06      | Andrew Török   | Quasi-compactness       | [here](/posts/2019/06/blog-post-8/)|
+| 06/06      | Will Ott       | Coupling                 | here|
