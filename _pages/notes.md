@@ -26,7 +26,7 @@ Here I will list the reading groups or seminars in which I will be participating
 | 03/06      | Matt Nicol     | Limit laws in Dynamical systems | [here](/posts/2019/06/blog-post-5/)|
 | 04/06      | Matt Nicol     | Martingale approximation | [here](/posts/2019/06/blog-post-6/)|
 | 05/06      | Andrew Török   | Quasi-compactness       | [here](/posts/2019/06/blog-post-8/)|
-| 06/06      | Will Ott       | Coupling                 | [here]([here](/posts/2019/06/blog-post-9/)|)|
+| 06/06      | Will Ott       | Coupling                 | [here](/posts/2019/06/blog-post-9/)|)|
 
 
 **Bowen's formula and transfer operators:** [here](/files/bowen.pdf). In these notes I present a sketch of the proof of the Bowen's formula for the Hausdorff dimension of the repeller of an IFS, as well as introducing notions of thermodynamic formalism.
