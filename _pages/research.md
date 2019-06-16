@@ -24,6 +24,8 @@ The results from the paper above show that it is possible to develop a theory in
 
 **Self-affine measures** for self-affine iterated functions systems (IFS), the Hausdorff dimension of the underlying self-affine set can be expressed in terms of the subadditive pressure (associated to the Falconer potential). The measures of equilibrium for such pressure are known as Käenmäki measures. I am interested in studying the statistical properties of such measures.
 
+[These](https://people.math.osu.edu/bergelson.1/vb_Kyoto8Nov04.pdf) notes by Vitaly Bergelson give insightful historical remarks on the ergodic theorem.
+
 # Talks and notes:
 
 **My research:** [here](/files/research.pdf) I explain my research, the area of investigation and the kind of questions we try to answer. This is written in a format accessible for non-mathematicians.
