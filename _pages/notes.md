@@ -28,6 +28,12 @@ Here I will list the reading groups or seminars in which I will be participating
 | 05/06      | Andrew Török   | Quasi-compactness       | [here](/posts/2019/06/blog-post-8/)|
 | 06/06      | Will Ott       | Coupling                 | [here](/posts/2019/06/blog-post-9/)|
 
+**Notes on probability theory:** here
+
+1. [Weak law of large numbers](/posts/2019/05/blog-post-3/)
+2. [Borel-Cantelli lemma](/posts/2019/05/blog-post-4/)
+3. [Law of large numbers, part 1](/posts/2019/06/blog-post-10/)
+
 **M.I. Gordin, On the central limit for stationary processes:** this is a *very* rough translation of the paper by Gordin, where he introduced the martingale approximation method to derive statistical results in dynamical systems. [Russian original](/files/Gordin-rus.pdf)/[English translation](/files/Gordin-eng.pdf).
 
 **Bowen's formula and transfer operators:** [here](/files/bowen.pdf). In these notes I present a sketch of the proof of the Bowen's formula for the Hausdorff dimension of the repeller of an IFS, as well as introducing notions of thermodynamic formalism.
