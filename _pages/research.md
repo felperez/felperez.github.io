@@ -26,7 +26,7 @@ The results from the paper above show that it is possible to develop a theory in
 
 [These](https://people.math.osu.edu/bergelson.1/vb_Kyoto8Nov04.pdf) notes by Vitaly Bergelson give insightful historical remarks on the ergodic theorem.
 
-# Talks and notes:
+---
 
 **My research:** [here](/files/research.pdf) I explain my research, the area of investigation and the kind of questions we try to answer. This is written in a format accessible for non-mathematicians.
 
