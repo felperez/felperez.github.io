@@ -36,6 +36,7 @@ Here I will list the reading groups or seminars in which I will be participating
 |Borel-Cantelli lemma             |[here](/posts/2019/06/blog-post-4/) |
 |Law of large numbers, part 1     |[here](/posts/2019/06/blog-post-10/)|
 |Quantitative Borel-Cantelli lemma|[here](/posts/2019/06/blog-post-11/)|
+|Central limit Theorem            |[here](/posts/2019/03/blog-post-12/)|
 
 
 **M.I. Gordin, On the central limit for stationary processes:** this is a *very* rough translation of the paper by Gordin, where he introduced the martingale approximation method to derive statistical results in dynamical systems. [Russian original](/files/Gordin-rus.pdf)/[English translation](/files/Gordin-eng.pdf).
