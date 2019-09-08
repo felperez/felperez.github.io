@@ -18,6 +18,11 @@ author_profile: true
 
 The results from the paper above show that it is possible to develop a theory in this setting.
 
+**Limit laws of sequential and random dynamical systems:**
+
+The classical limit laws apply for sequences of random variables with some degree of stationarity. For instance, a Law of Large Numbers and a Central Limit Theorem hold for a class of martingales and a class of ergodic stationary processes. We can extend these notions by considering processes arising from sequential and random compositions of different dynamical systems acting in the same space. The resulting systems are non-stationary. While several laws have already been proved, I am interested in Large Deviations and Central Limit Theorems for such systems.
+
+
 ## Two dimensional dynamics
 
 ![Sierpinski triangle](/files/sierp.png)
