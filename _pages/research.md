@@ -22,6 +22,10 @@ The results from the paper above show that it is possible to develop a theory in
 
 The classical limit laws apply for sequences of random variables with some degree of stationarity. For instance, a Law of Large Numbers and a Central Limit Theorem hold for a class of martingales and a class of ergodic stationary processes. We can extend these notions by considering processes arising from sequential and random compositions of different dynamical systems acting in the same space. The resulting systems are non-stationary. While several laws have already been proved, I am interested in Large Deviations and Central Limit Theorems for such systems.
 
+*Large deviations and central limit theorems for sequential and random systems of intermittent maps, (Submitted.)* [https://arxiv.org/abs/1909.07435](https://arxiv.org/abs/1909.07435)
+
+*We obtain large deviations estimates for both sequential and random compositions of intermittent maps. We also address the question of whether or not centering is necessary for the quenched central limit theorems (CLT) obtained by Nicol, Török and Vaienti for random dynamical systems comprised of intermittent maps. Using recent work of Abdelkader and Aimino, Hella and Stenlund we extend the results of Nicol, Török and Vaienti on quenched central limit theorems (CLT) for centered observables over random compositions of intermittent maps: first by enlarging the parameter range over which the quenched CLT holds; and second by showing that the variance in the quenched CLT is almost surely constant (and the same as the variance of the annealed CLT) and that centering is needed to obtain this quenched CLT.*
+
 
 ## Two dimensional dynamics
 
