@@ -39,6 +39,11 @@ Here I will list the reading groups or seminars in which I will be participating
 |Central limit Theorem            |[here](/posts/2019/07/blog-post-12/)|
 |Large deviations                 |[here](/posts/2019/07/blog-post-13/)|
 
+**Problems in data science**
+* Problem 1: [random unfair coin](posts/2019/12/blog-post-17/)
+* Problem 2: [expectation of minimum of uniform rv](posts/2019/12/blog-post-18/)
+
+
 
 **M.I. Gordin, On the central limit for stationary processes:** this is a *very* rough translation of the paper by Gordin, where he introduced the martingale approximation method to derive statistical results in dynamical systems. [Russian original](/files/Gordin-rus.pdf)/[English translation](/files/Gordin-eng.pdf).
 
