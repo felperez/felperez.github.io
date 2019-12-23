@@ -1,0 +1,38 @@
+---
+title: 'Exercise 1'
+date: 2019-12-07
+permalink: /posts/2019/12/blog-post-17/
+tags:
+  - Probability theory
+  - Measure theory
+---
+
+## Problem 1
+
+There is a fair coin (one side heads, one side tails) and an unfair coin (both sides tails). You pick one at random, flip it 5 times, and observe that it comes up as tails all five times. What is the chance that you are flipping the unfair coin?
+
+## Solution:
+
+We will use Bayes' theorem and the law of total probability. Define the following events:  
+
+* $A$ = obtaining 5 tails,  
+* $F$ = the coin is fair,  
+* $U$ = the coin is unfair.  
+
+Note that $F$ and $U$ are exclusive events. By the [law of total probability]([https://en.m.wikipedia.org/wiki/Law_of_total_probability](https://en.m.wikipedia.org/wiki/Law_of_total_probability)), we have that  
+
+$$  
+\mathbb{P}(A) = \mathbb{P}(A|U)\mathbb{P}(U)+ \mathbb{P}(A|F)\mathbb{P}(F).  
+$$  
+
+Note that if the coin is unfair, then all we would observe are tails, hence the first term is $1/2$. On the other hand, if the coin is fair, then the probability of obtaining five tails in a row is $(1/2)^{-5}$, and then the second term is $(1/2)^{-6}$. Now we compute $\mathbb{P}(U|A)$ using [Bayes' theorem]([https://en.m.wikipedia.org/wiki/Bayes%27_theorem](https://en.m.wikipedia.org/wiki/Bayes%27_theorem)):  
+
+$$  
+\mathbb{P}(U|A) = \dfrac{\mathbb{P}(A|U)\mathbb{P}(U)}{\mathbb{P}(A)}.
+$$
+
+Putting everything together we obtain
+
+$$
+\mathbb{P}(U|A) = \dfrac{\mathbb{P}(A|U)\mathbb{P}(U)}{\mathbb{P}(A|U)\mathbb{P}(U)+ \mathbb{P}(A|F)\mathbb{P}(F)} = \dfrac{1\cdot\frac{1}{2}}{1\cdot \frac{1}{2}+(\frac{1}{2})^5\cdot\frac{1}{2}} = \frac{32}{33}
+$$
