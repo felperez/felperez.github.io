@@ -40,8 +40,8 @@ Here I will list the reading groups or seminars in which I will be participating
 |Large deviations                 |[here](/posts/2019/07/blog-post-13/)|
 
 **Problems in data science**
-* Problem 1: [random unfair coin](posts/2019/12/blog-post-17/)
-* Problem 2: [expectation of minimum of uniform rv](posts/2019/12/blog-post-18/)
+* Problem 1: [random unfair coin](/posts/2019/12/blog-post-17/)
+* Problem 2: [expectation of minimum of uniform rv](/posts/2019/12/blog-post-18/)
 
 
 
