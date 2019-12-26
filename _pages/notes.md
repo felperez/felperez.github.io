@@ -42,7 +42,7 @@ Here I will list the reading groups or seminars in which I will be participating
 **Problems in data science:** here I will post a number of problems and solutions, related to the discipline of data science. This includes statistics, probability, algorithms, among others.
 * Problem 1: [random unfair coin](/posts/2019/12/blog-post-17/)
 * Problem 2: [expectation of minimum of uniform rv](/posts/2019/12/blog-post-18/)
-
+* Problem 3: [rearrange of lists](/posts/2019/12/blog-post-19/)
 
 
 **M.I. Gordin, On the central limit for stationary processes:** this is a *very* rough translation of the paper by Gordin, where he introduced the martingale approximation method to derive statistical results in dynamical systems. [Russian original](/files/Gordin-rus.pdf)/[English translation](/files/Gordin-eng.pdf).
