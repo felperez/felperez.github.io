@@ -39,7 +39,7 @@ Here I will list the reading groups or seminars in which I will be participating
 |Central limit Theorem            |[here](/posts/2019/07/blog-post-12/)|
 |Large deviations                 |[here](/posts/2019/07/blog-post-13/)|
 
-**Problems in data science**
+**Problems in data science:** here I will post a number of problems and solutions, related to the discipline of data science. This includes statistics, probability, algorithms, among others.
 * Problem 1: [random unfair coin](/posts/2019/12/blog-post-17/)
 * Problem 2: [expectation of minimum of uniform rv](/posts/2019/12/blog-post-18/)
 
