@@ -32,8 +32,8 @@ Here I will list the reading groups or seminars in which I will be participating
 
 |Description                                                   | Notes |
 |:-------------------------------------------------------------|:-----:|
-|Weak law of large numbers        |[here](/posts/2019/06/blog-post-3/) |
-|Borel-Cantelli lemma             |[here](/posts/2019/06/blog-post-4/) |
+|Weak law of large numbers        |[here](/posts/2019/05/blog-post-3/) |
+|Borel-Cantelli lemma             |[here](/posts/2019/05/blog-post-4/) |
 |Law of large numbers, part 1     |[here](/posts/2019/06/blog-post-10/)|
 |Quantitative Borel-Cantelli lemma|[here](/posts/2019/06/blog-post-11/)|
 |Central limit Theorem            |[here](/posts/2019/07/blog-post-12/)|
