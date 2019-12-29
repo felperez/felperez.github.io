@@ -28,7 +28,7 @@ Here I will list the reading groups or seminars in which I will be participating
 | 05/06      | Andrew Török   | Quasi-compactness       | [here](/posts/2019/06/blog-post-8/)|
 | 06/06      | Will Ott       | Coupling                 | [here](/posts/2019/06/blog-post-9/)|
 
-**Notes on probability theory:** here I will post notes on a variety of topics related to probability theory which are of my interest in one way or another. They have an expository character while keeping the formality.
+**Notes on probability theory and statistics:** here I will post notes on a variety of topics related to probability theory which are of my interest in one way or another. They have an expository character while keeping the formality.
 
 |Description                                                   | Notes |
 |:-------------------------------------------------------------|:-----:|
