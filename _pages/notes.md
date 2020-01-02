@@ -45,6 +45,7 @@ Here I will list the reading groups or seminars in which I will be participating
 * Problem 1: [random unfair coin](/posts/2019/12/blog-post-17/)
 * Problem 2: [expectation of minimum of uniform rv](/posts/2019/12/blog-post-18/)
 * Problem 3: [rearrange of lists](/posts/2019/12/blog-post-19/)
+* Problem 4: [producing normal vectors](/posts/2020/01/blog-post-21/)
 
 
 **M.I. Gordin, On the central limit for stationary processes:** this is a *very* rough translation of the paper by Gordin, where he introduced the martingale approximation method to derive statistical results in dynamical systems. [Russian original](/files/Gordin-rus.pdf)/[English translation](/files/Gordin-eng.pdf).
