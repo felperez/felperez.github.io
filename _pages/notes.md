@@ -11,6 +11,7 @@ Here I will list the reading groups or seminars in which I will be participating
 
 |Description                                                   | Notes |
 |:-------------------------------------------------------------|:-----:|
+|Confidence intervals             |[here](/posts/2020/01/blog-post-25/)|
 |The law of Anomalous numbers     |[here](/posts/2020/01/blog-post-23/)|
 |The ergodic theorem              |[here](/posts/2020/01/blog-post-22/)|
 |Understanding bias and variance  |[here](/posts/2019/12/blog-post-20/)|
