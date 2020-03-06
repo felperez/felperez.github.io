@@ -11,6 +11,7 @@ Here I will list the reading groups or seminars in which I will be participating
 
 |Description                                                   | Notes |
 |:-------------------------------------------------------------|:-----:|
+|Is overfitting... good?          |[here](/posts/2020/02/blog-post-31/)|
 |PCA and supervised learning      |[here](/posts/2020/02/blog-post-30/)|
 |Martingales 0                    |[here](/posts/2020/02/blog-post-29/)|
 |Extreme value theory III         |[here](/posts/2020/02/blog-post-28/)|
