@@ -13,6 +13,11 @@ Math links
 4. [ETDS](https://mc.manuscriptcentral.com/etds) (Dynamical systems journal)
 5. [Almost sure](https://almostsure.wordpress.com) (Probability theory blog)
 6. [Eventually almost everywhere](https://eventuallyalmosteverywhere.wordpress.com) (Probability theory blog)
+7. [The American Mathematical Monthly](https://www.maa.org)
+8. [Probability Theory and Related Fields](https://www.springer.com/journal/440)
+9. [Journal of Theoretical Probability](https://www.springer.com/journal/10959)
+10. [Annals of probability](https://imstat.org/journals-and-publications/annals-of-probability/)
+11. [Annals of statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
 
 
 Machine learning
