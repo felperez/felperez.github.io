@@ -69,4 +69,4 @@ Here I will list the reading groups or seminars in which I will be participating
 
 **Sizing small sets:** [here](/files/pps.pdf). These are the slides of a talk that I gave in the Pure Postgraduate Seminar. Here I introduce the notion of Hausdorff dimension and how can it be used to compare sizes of sets of measure zero. I present some number theoretical results concerning dimensions of certain sets, as well as sketch of the connection to dynamical systems and ergodic theory.
 
-**Chaos and order:** [here](/files/chaos.pdf). This is the sketch of the talk that I have in the 3 Minute Thesis competition, which was chosen for the final stage. The video of the talk can be found [here](https://www.youtube.com/watch?v=W9WJXjCynx4&t=7s).
+**Chaos and order:** [here](/files/chaos.pdf). This is the sketch of the talk that I have in the 3 Minute Thesis competition, which was chosen for the final stage. The video of the talk can be found [here](https://youtu.be/W9WJXjCynx4).
