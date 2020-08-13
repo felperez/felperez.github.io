@@ -1,0 +1,12 @@
+In _pages, add the markdown file with the following header:
+
+---
+layout: archive
+title: "TITLE"
+permalink: /TITLE/
+author_profile: true
+---
+
+Then, add entry in _config.yml
+
+Then, add it to _data/navigation.yml
