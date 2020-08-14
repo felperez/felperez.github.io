@@ -7,6 +7,21 @@ author_profile: true
 
 Here I will list the reading groups or seminars in which I will be participating/organising. I will also occasionally upload some notes taken at each of the seminars. My notes can (and will usually) be a bit sloppy, and I declare myself responsible for any mistakes in them.
 
+**Quantum theory for mathematicians:** here I will post (handwritten) notes from our reading group (co-organized with Gastón Burull). The discussions are lead by myself and the notes taken by Gastón.
+
+|Description                                                   | Notes |
+|:-------------------------------------------------------------|:-----:|
+|In preparation...                                             |       |
+
+
+**Notes on dynamical systems and ergodic theory:** here I will post some notes on topics related to my research that I have written.
+
+|Description                                                   | Notes |
+|:-------------------------------------------------------------|:-----:|
+|The ergodic theorem              |[here](/posts/2020/01/blog-post-22/)|
+|Statistical laws in Dynamical Systems|[here](/posts/2019/12/blog-post-15/)|
+
+
 **Notes on probability theory and statistics:** here I will post notes on a variety of topics related to probability theory which are of my interest in one way or another. They have an expository character while keeping the formality.
 
 |Description                                                   | Notes |
@@ -19,7 +34,6 @@ Here I will list the reading groups or seminars in which I will be participating
 |Extreme value theory II          |[here](/posts/2020/01/blog-post-26/)|
 |Confidence intervals             |[here](/posts/2020/01/blog-post-25/)|
 |The law of Anomalous numbers     |[here](/posts/2020/01/blog-post-23/)|
-|The ergodic theorem              |[here](/posts/2020/01/blog-post-22/)|
 |Understanding bias and variance  |[here](/posts/2019/12/blog-post-20/)|
 |Extreme value theory I           |[here](/posts/2019/12/blog-post-16/)|
 |Large deviations                 |[here](/posts/2019/07/blog-post-13/)|
