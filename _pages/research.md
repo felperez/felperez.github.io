@@ -39,6 +39,12 @@ The classical limit laws apply for sequences of random variables with some degre
 
 **My research:** [here](/files/research.pdf) I explain my research, the area of investigation and the kind of questions we try to answer. This is written in a format accessible for non-mathematicians.
 
+**Chaos and order:** [here](/files/chaos.pdf). This is the sketch of the talk that I have in the 3 Minute Thesis competition, which was chosen for the final stage. The video of the talk can be found [here](https://youtu.be/W9WJXjCynx4).
+
+**Juegos que son justos pero no deberían serlo** a talk about infinite probability that I gave for the students seminar of my former university, UC Chile. The video of the talk can be found [here](https://youtu.be/MOWkI2MHxIA). In spanish.
+
+**Quantum astronomy: matemáticas y la dimensión fractal** podcast hosted by astronomers Simón Angel and Luis Rodríguez, where I talked about dynamical systems, ergodic theory and fractal geometry in an accessible way for any stem undergrad. Link of the talk (in spotify) [here](https://open.spotify.com/episode/5Le5YaM5io2ucscKUjly5J?si=meVX2p-uSdOprqtQS3-nEw).
+
 **My Master's thesis:** [here](/files/thesis.pdf). I give a general introduction to ergodic theory with emphasis in Thermodynamic Formalism. In the last chapter, I prove that the dimension of the Borel-Bernstein depends analytically on the parameter.
 
 **Slides of my thesis presentation (in Spanish):** [here](/files/slides.pdf). These are the slides I used when presenting my Master's thesis. They contain a summarized  version of the results of my thesis, as well as some ideas of the proof.
