@@ -54,7 +54,7 @@
 <p class="p1"><span class="s1">{% if site.data.ui-text[site.locale].related_label %}</span></p>
 <h4 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</b></span></h4>
 <p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p1"><span class="s1">{% for post in site.related_posts limit:4 %} {% include archive-single.html type="grid" %} {% endfor %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% for post in site.related_posts limit:5 %} {% include archive-single.html type="grid" %} {% endfor %}<span class="Apple-converted-space"> </span></span></p>
 <p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
 </body>
 </html>
