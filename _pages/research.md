@@ -43,7 +43,7 @@ The classical limit laws apply for sequences of random variables with some degre
 
 **Juegos que son justos pero no deberían serlo** a talk about infinite probability that I gave for the students seminar of my former university, UC Chile. The video of the talk can be found [here](https://youtu.be/MOWkI2MHxIA). In spanish.
 
-**Quantum astronomy: matemáticas y la dimensión fractal** podcast hosted by astronomers Simón Angel and Luis Rodríguez, where I talked about dynamical systems, ergodic theory and fractal geometry in an accessible way for any stem undergrad. Link of the talk (in spotify) [here](https://open.spotify.com/episode/5Le5YaM5io2ucscKUjly5J?si=meVX2p-uSdOprqtQS3-nEw).
+**Quantum astronomy: matemáticas y la dimensión fractal** podcast hosted by astronomers Simón Angel and Luis Rodríguez, where I talked about dynamical systems, ergodic theory and fractal geometry in an accessible way for any stem undergrad. Link of the talk (in spotify) [here](https://open.spotify.com/episode/5Le5YaM5io2ucscKUjly5J?si=meVX2p-uSdOprqtQS3-nEw) and the video [here](https://www.youtube.com/watch?v=Cg37gkbZigI).
 
 **My Master's thesis:** [here](/files/thesis.pdf). I give a general introduction to ergodic theory with emphasis in Thermodynamic Formalism. In the last chapter, I prove that the dimension of the Borel-Bernstein depends analytically on the parameter.
 
