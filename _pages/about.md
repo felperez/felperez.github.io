@@ -13,3 +13,10 @@ I am Felipe Pérez, a fourth year PhD student of the University of Bristol under
 ![venice](/files/venice.jpg)
 
 Me in Venice, Italy during the [Workshop on Hyperbolic Dynamics 2017](http://indico.ictp.it/event/7970) at ICTP.
+
+
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include _pages/post_detail.html %}
+</div>

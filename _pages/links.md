@@ -18,6 +18,8 @@ Math links
 9. [Journal of Theoretical Probability](https://www.springer.com/journal/10959)
 10. [Annals of probability](https://imstat.org/journals-and-publications/annals-of-probability/)
 11. [Annals of statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
+12. [Terry Tao's blog](https://terrytao.wordpress.com)
+
 
 
 Machine learning
@@ -29,3 +31,12 @@ Machine learning
 5. [Distill](https://distill.pub/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow) (Nicely explained ML/AI articles)
 6. [AI google](https://ai.googleblog.com/search/label/Machine%20Learning?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 7. [Machine learning theory](https://hunch.net/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
+
+
+Others
+
+1. [BBC Earth podcast](https://open.spotify.com/show/7I1Iv7SlYzNBAhZdGvajYJ?si=O4JjUnW9SP60azZCMbsxvw)
+2. [My favorite theorem podcast](https://open.spotify.com/show/2EMAnkCN5YE6Rm5GXhz7yn?si=EO-wdPAPQWKz3d4xh2Bdhw)
+3. [Learn jazz standards podcast](https://open.spotify.com/show/64jcyR7JAymM1aCD5MzTy0?si=Hu4nvBA_SsmZP25vNq4RQA)
+4. [3Brown1Blue youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
