@@ -14,9 +14,13 @@ I am Felipe Pérez, a fourth year PhD student of the University of Bristol under
 
 Me in Venice, Italy during the [Workshop on Hyperbolic Dynamics 2017](http://indico.ictp.it/event/7970) at ICTP.
 
+<h1>Latest Posts</h1>
 
-<div class="blog-index">  
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include _pages/post_detail.html %}
-</div>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
