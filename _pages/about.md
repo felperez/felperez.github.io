@@ -55,13 +55,13 @@ I am Felipe Pérez, a fourth year PhD student of the University of Bristol under
 
 <div class="row">
   <div class="column">
-    <img src="/files/venice.jpg" alt="Me in Venice" style="width:100%">
+    <img src="/files/pictures/venice.jpg" alt="Me in Venice" style="width:100%">
   </div>
   <div class="column">
-    <img src="/files/stockholm.jpg" alt="Me in Stockholm" style="width:100%">
+    <img src="/files/pcitures/stockholm.jpg" alt="Me in Stockholm" style="width:100%">
   </div>
   <div class="column">
-    <img src="/files/edinburgh.jpg" alt="Edinburgh" style="width:100%">
+    <img src="/files/pictures/edinburgh.jpg" alt="Edinburgh" style="width:100%">
   </div>
 </div>
 
