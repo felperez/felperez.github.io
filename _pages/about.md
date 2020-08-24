@@ -26,9 +26,46 @@ I am Felipe Pérez, a fourth year PhD student of the University of Bristol under
 
 <h2>Pictures</h2>
 
-![venice](/files/venice.jpg)
 
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-Me in Venice, Italy during the [Workshop on Hyperbolic Dynamics 2017](http://indico.ictp.it/event/7970) at ICTP.
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/files/venice.jpg" alt="Me in Venice" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/files/stockholm.jpg" alt="Me in Stockholm" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/files/edinburgh.jpg" alt="Edinburgh" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
 
 
