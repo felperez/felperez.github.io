@@ -23,7 +23,7 @@
     <meta  property="og:url"  content="{{ site.url }}{{ page.url }}"  />
     <meta  property="og:title"  content="TITLE"  />
     <meta  property="og:description"  content="DESC"  />
-    <meta  property="og:image"  content="IMG"  />
+    <meta  property="og:image"  content=/files/transfer.png  />
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="fb-comments" data-href="{{ base_path }}{{ page.url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 10 }}" data-width="100%" order_by ="reverse_time" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
   {% when "google-plus" %}
