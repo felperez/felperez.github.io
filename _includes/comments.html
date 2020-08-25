@@ -19,6 +19,7 @@
     <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
   {% when "facebook" %}
     <meta property="fb:app_id" content="{3515229345205828}" />
+    <meta property="fb:admins" content="{felipe1728361882961/}"/>
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="fb-comments" data-href="{{ base_path }}{{ page.url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
   {% when "google-plus" %}
