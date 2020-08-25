@@ -18,12 +18,7 @@
     </script>
     <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
   {% when "facebook" %}
-    <meta  property="og:locale" content="en_US" />
-    <meta  property="og:locale:alternate" content="ka_GE" />
-    <meta  property="og:url"  content="{{ site.url }}{{ page.url }}"  />
-    <meta  property="og:title"  content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"  />
-    <meta  property="og:description"  content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"  />
-    <meta  property="og:image"  content= "https://felperez.github.io/images/profile.jpeg" />
+    
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="fb-comments" data-href="{{ base_path }}{{ page.url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 10 }}" data-width="100%" order_by ="reverse_time" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
   {% when "google-plus" %}
