@@ -6,6 +6,16 @@
   {% when "disqus" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="disqus_thread"></section>
+  {% when "hyvor" %}
+    <div id="hyvor-talk-view"></div>
+    <script type="text/javascript">
+      var HYVOR_TALK_WEBSITE = 1738; // DO NOT CHANGE THIS
+      var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+      };
+    </script>
+    <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
   {% when "facebook" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="fb-comments" data-href="{{ base_path }}{{ page.url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
