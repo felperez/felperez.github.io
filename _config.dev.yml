@@ -6,7 +6,7 @@ analytics:
   provider: false
 
 comments:
-  hyvor:
+  facebook:
     shortname            : "felperez"
 
 sass:
