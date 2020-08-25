@@ -64,3 +64,21 @@ I am Felipe Pérez, a fourth year PhD student of the University of Bristol under
 </html>
 
 
+
+<img src="/files/pictures/venice.jpg" class="img" alt="" width="200" height="150">
+
+
+.img:hover{
+    color: #424242; 
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.15);
+  -ms-transform: scale(1.15); /* IE 9 */
+  -webkit-transform: scale(1.15); /* Safari and Chrome */
+
+}
+
