@@ -26,54 +26,6 @@ I am Felipe Pérez, a fourth year PhD student of the University of Bristol under
 
 <html>
 <head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-
-<div class="row">
-  <div class="column">
-    <img src="/files/pictures/venice.jpg" alt="Me in Venice" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/files/pictures/stockholm.jpg" alt="Me in Stockholm" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/files/pictures/edinburgh.jpg" alt="Edinburgh" style="width:100%">
-  </div>
-</div>
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-<html>
-<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
@@ -181,7 +133,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="/files/pictures/venice.jpg" style="width:100%">
+  <img src="/files/pictures/venice.jpg" style="width:70%">
   <div class="text">Me in Venice</div>
 </div>
 
