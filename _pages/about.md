@@ -83,7 +83,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 700px;
   position: relative;
   margin: auto;
 }
@@ -193,7 +193,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="/files/pictures/edinburgh" style="width:100%">
+  <img src="/files/pictures/edinburgh.jpg" style="width:100%">
   <div class="text">Edinburgh</div>
 </div>
 
