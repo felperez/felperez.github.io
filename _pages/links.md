@@ -31,6 +31,8 @@ Machine learning
 5. [Distill](https://distill.pub/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow) (Nicely explained ML/AI articles)
 6. [AI google](https://ai.googleblog.com/search/label/Machine%20Learning?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 7. [Machine learning theory](https://hunch.net/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
+8. [Jupyter notebooks viewer](https://nbviewer.jupyter.org)
+
 
 
 Free/open journals
