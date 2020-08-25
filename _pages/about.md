@@ -14,10 +14,9 @@ I am Felipe Pérez, a fourth year PhD student of the University of Bristol under
 <h2>Latest blog post</h2>
 
 <ul>
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts limit:5 %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title}}</a>, published on {{post.date | date: "%-d %B %Y"}}</h3>
-      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
