@@ -6,8 +6,8 @@ analytics:
   provider: false
 
 comments:
-  disqus:
-    shortname            : "mmistakes-dev"
+  hyvor:
+    shortname            : "felperez"
 
 sass:
   style: expanded
