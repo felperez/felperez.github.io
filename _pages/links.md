@@ -33,6 +33,15 @@ Machine learning
 7. [Machine learning theory](https://hunch.net/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 
 
+Free/open journals
+
+1. [Compilation by CIMPA](https://www.cimpa.info/en/node/62)
+2. [Compilation by International Press of Boston](https://intlpress.com/site/pub/pages/journals/_home/contentonline/index.php)
+3. [Bulletin of the AMS](https://www.ams.org/publications/journals/journalsframework/bull)
+4. [European Mathematical Society](https://www.ems-ph.org/journals/show_issue.php?issn=1435-9855&vol=22&iss=9)
+
+
+
 Others
 
 1. [BBC Earth podcast](https://open.spotify.com/show/7I1Iv7SlYzNBAhZdGvajYJ?si=O4JjUnW9SP60azZCMbsxvw)
