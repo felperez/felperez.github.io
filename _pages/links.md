@@ -44,10 +44,17 @@ Free/open journals
 
 
 
+Books
+
+1. Quantum theory for mathematicians, Hall [here](http://staff.ustc.edu.cn/~shmj/Reference/GTM267%20Quantum%20Theory%20for%20Mathematicians.pdf)
+2. Foundations of ergodic theory, Oliveira & Viana (in Portuguese) [here](http://w3.impa.br/~viana/out/OV3.pdf)
+3. The rising sea, Foundations of Algebraic Geometry, Ravi Vakil [here](http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)
+4. Compilation of resources by Real not complex, [here](https://realnotcomplex.com)
+
+
 Others
 
 1. [BBC Earth podcast](https://open.spotify.com/show/7I1Iv7SlYzNBAhZdGvajYJ?si=O4JjUnW9SP60azZCMbsxvw)
 2. [My favorite theorem podcast](https://open.spotify.com/show/2EMAnkCN5YE6Rm5GXhz7yn?si=EO-wdPAPQWKz3d4xh2Bdhw)
 3. [Learn jazz standards podcast](https://open.spotify.com/show/64jcyR7JAymM1aCD5MzTy0?si=Hu4nvBA_SsmZP25vNq4RQA)
 4. [3Brown1Blue youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-
