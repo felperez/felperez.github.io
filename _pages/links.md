@@ -40,19 +40,19 @@ author_profile: true
 <button type="button" class="collapsible">Math links</button>
 <div class="content">
 <ol>
-<li> <a href=https://math.stackexchange.com>Math stack</a> </li>
-<li> <a href=https://mathoverflow.net>Math overflow</a> </li>
-<li> <a href=https://iopscience.iop.org/journal/0951-7715>Nonlinearity</a> </li>
-<li> <a href=https://mc.manuscriptcentral.com/etds>ETDS</a> </li>
-<li> <a href=https://almostsure.wordpress.com>Almost sure</a> </li>
-<li> <a href=https://eventuallyalmosteverywhere.wordpress.com>Eventually almost everywhere</a> </li>
-<li> <a href=https://www.maa.org>The American Mathematical Monthly</a> </li>
-<li> <a href=https://www.springer.com/journal/440>Probability Theory and Related Fields</a> </li>
-<li> <a href=https://www.springer.com/journal/10959>Journal of Theoretical Probability</a> </li>
-<li> <a href=https://imstat.org/journals-and-publications/annals-of-probability/>Annals of probability</a> </li>
-<li> <a href=https://imstat.org/journals-and-publications/annals-of-statistics/>Annals of statistics</a> </li>
-<li> <a href=https://terrytao.wordpress.com>Terry Tao's blog</a> </li>
-<li> <a href=https://math.stackexchange.com/questions/225139/original-works-of-great-mathematicians>Original works of mathematicians</a> </li>
+<li> <a href="https://math.stackexchange.com">Math stack</a> </li>
+<li> <a href="https://mathoverflow.net">Math overflow</a> </li>
+<li> <a href="https://iopscience.iop.org/journal/0951-7715">Nonlinearity</a> </li>
+<li> <a href="https://mc.manuscriptcentral.com/etds">ETDS</a> </li>
+<li> <a href="https://almostsure.wordpress.com">Almost sure</a> </li>
+<li> <a href="https://eventuallyalmosteverywhere.wordpress.com">Eventually almost everywhere</a> </li>
+<li> <a href="https://www.maa.org">The American Mathematical Monthly</a> </li>
+<li> <a href="https://www.springer.com/journal/440">Probability Theory and Related Fields</a> </li>
+<li> <a href="https://www.springer.com/journal/10959">Journal of Theoretical Probability</a> </li>
+<li> <a href="https://imstat.org/journals-and-publications/annals-of-probability/">Annals of probability</a> </li>
+<li> <a href="https://imstat.org/journals-and-publications/annals-of-statistics/">Annals of statistics</a> </li>
+<li> <a href="https://terrytao.wordpress.com">Terry Tao's blog</a> </li>
+<li> <a href="https://math.stackexchange.com/questions/225139/original-works-of-great-mathematicians">Original works of mathematicians</a> </li>
 </ol>
 </div>
 
