@@ -17,3 +17,5 @@ Durante este semestre dictaré una de las secciones del curso FMM133 Cálculo II
 [Pizarra Clase 2](/files/calc2/Class-2-Calculo-2.pdf)
 
 [Pizarra Clase 3](/files/calc2/Class-3-Calculo-2.pdf)
+
+[Pizarra Clase 4](/files/calc2/Class-4-Calculo-2.pdf)
