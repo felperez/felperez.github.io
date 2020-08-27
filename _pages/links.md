@@ -5,8 +5,44 @@ permalink: /links/
 author_profile: true
 ---
 
-Math links
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<h2>Collapsibles</h2>
+
+
+
+<p>Collapsible Set:</p>
+<button type="button" class="collapsible">Math links</button>
+<div class="content">
 1. [Math stack](https://math.stackexchange.com)
 2. [Math overflow](https://mathoverflow.net)
 3. [Nonlinearity](https://iopscience.iop.org/journal/0951-7715) (Dynamical systems journal)
@@ -20,10 +56,10 @@ Math links
 11. [Annals of statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
 12. [Terry Tao's blog](https://terrytao.wordpress.com)
 13. [Original works of mathematicians](https://math.stackexchange.com/questions/225139/original-works-of-great-mathematicians)
+</div>
 
-
-
-Machine learning
+<button type="button" class="collapsible">Machine learning</button>
+<div class="content">
 
 1. [Transactions on Pattern Analysis and Machine Intelligence (TPAMI) - IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), (ML journal)
 2. [Journal of Machine learning research](http://www.jmlr.org)
@@ -33,27 +69,26 @@ Machine learning
 6. [AI google](https://ai.googleblog.com/search/label/Machine%20Learning?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 7. [Machine learning theory](https://hunch.net/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow)
 8. [Jupyter notebooks viewer](https://nbviewer.jupyter.org)
+</div>
 
-
-
-Free/open journals
+<button type="button" class="collapsible">Free/open journals</button>
+<div class="content">
 
 1. [Compilation by CIMPA](https://www.cimpa.info/en/node/62)
 2. [Compilation by International Press of Boston](https://intlpress.com/site/pub/pages/journals/_home/contentonline/index.php)
 3. [Bulletin of the AMS](https://www.ams.org/publications/journals/journalsframework/bull)
 4. [European Mathematical Society](https://www.ems-ph.org/journals/show_issue.php?issn=1435-9855&vol=22&iss=9)
+</div>
 
-
-
-Books
-
+<button type="button" class="collapsible">Books</button>
+<div class="content">
 1. Quantum theory for mathematicians, Hall [here](http://staff.ustc.edu.cn/~shmj/Reference/GTM267%20Quantum%20Theory%20for%20Mathematicians.pdf)
 2. Foundations of ergodic theory, Oliveira & Viana (in Portuguese) [here](http://w3.impa.br/~viana/out/OV3.pdf)
 3. The rising sea, Foundations of Algebraic Geometry, Ravi Vakil [here](http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)
-4. Compilation of resources by Real not complex, [here](https://realnotcomplex.com)
+4. Compilation of resources by Real not complex, [here](https://realnotcomplex.com)</div>
 
-Interesting reads
-
+<button type="button" class="collapsible">Interesting reads</button>
+<div class="content">
 1. [Monotony is a superfluous hypothesis in the Monotone convergence theorem for Lebesgue integral](https://mathoverflow.net/questions/296312/do-you-know-important-theorems-that-remain-unknown/296540#296540)
 2. [Nonexistence of boundary between convergent and divergent series?](https://mathoverflow.net/questions/49415/nonexistence-of-boundary-between-convergent-and-divergent-series)
 3. [Intuitive proof of the Birkhoff ergodic theorem](https://mathoverflow.net/questions/28997/does-anyone-know-an-intuitive-proof-of-the-birkhoff-ergodic-theorem)
@@ -72,11 +107,33 @@ Interesting reads
 16. [Intuition about Blumenthal's 0-1 law](https://math.stackexchange.com/questions/1374673/intuition-about-blumenthals-0-1-law)
 17. [The category of Hilbert spaces is not Abelian](https://math.stackexchange.com/questions/1187211/why-is-the-additive-category-of-hilbert-spaces-not-abelian)
 18. [Recurrence in infinite measure space](https://math.stackexchange.com/questions/1945447/poincaré-recurrence-but-infinite-measure)
+</div>
 
-
-Others
-
+<button type="button" class="collapsible">Others</button>
+<div class="content">
 1. [BBC Earth podcast](https://open.spotify.com/show/7I1Iv7SlYzNBAhZdGvajYJ?si=O4JjUnW9SP60azZCMbsxvw)
 2. [My favorite theorem podcast](https://open.spotify.com/show/2EMAnkCN5YE6Rm5GXhz7yn?si=EO-wdPAPQWKz3d4xh2Bdhw)
 3. [Learn jazz standards podcast](https://open.spotify.com/show/64jcyR7JAymM1aCD5MzTy0?si=Hu4nvBA_SsmZP25vNq4RQA)
 4. [3Brown1Blue youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+</div>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
