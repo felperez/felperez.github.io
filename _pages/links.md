@@ -12,7 +12,7 @@ author_profile: true
 <style>
 .collapsible {
   background-color: #ffffff;
-  color: black;
+  color: grey;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -59,7 +59,7 @@ author_profile: true
 <button type="button" class="collapsible">Machine learning</button>
 <div class="content">
 <ol>
-<li> <a href="TPAMI">Transactions on Pattern Analysis and Machine Intelligence (TPAMI) - IEEE</a> </li>
+<li> <a href="https://www.computer.org/csdl/journal/tp">Transactions on Pattern Analysis and Machine Intelligence (TPAMI) - IEEE</a> </li>
 <li> <a href="http://www.jmlr.org">Journal of Machine learning research</a> </li>
 <li> <a href="https://nips.cc">NeuralIPS</a> </li>
 <li> <a href="https://blog.ml.cmu.edu/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow">Machine learning blog Carnegie Mellon University</a> </li>
