@@ -11,8 +11,8 @@ author_profile: true
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  background-color: #777;
-  color: white;
+  background-color: #ffffff;
+  color: black;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -23,14 +23,14 @@ author_profile: true
 }
 
 .active, .collapsible:hover {
-  background-color: #555;
+  background-color:  #cccccc;
 }
 
 .content {
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #ffffff;
 }
 </style>
 </head>
