@@ -89,6 +89,9 @@ author_profile: true
 <li> <a href="http://w3.impa.br/~viana/out/OV3.pdf">Foundations of ergodic theory (in Portuguese), Oliveira and Viana</a> </li>
 <li> <a href="http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf">The rising sea, foundations of algebraic geometry, Ravi Vakil</a> </li>
 <li> <a href="https://realnotcomplex.com">Compilation by real not complex</a> </li>
+<li> <a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf">Pattern recognition and Machine learning, Bishop</a></li>
+<li> <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning, Friedman et al</a></li>
+<li> <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/">Introduction to statistical learning, James et al</a></li>
 </ol>
 </div>
 
