@@ -124,6 +124,10 @@ author_profile: true
 <li> <a href="https://open.spotify.com/show/2EMAnkCN5YE6Rm5GXhz7yn?si=EO-wdPAPQWKz3d4xh2Bdhw">My favorite theorem podcast</a> </li>
 <li> <a href="https://open.spotify.com/show/64jcyR7JAymM1aCD5MzTy0?si=Hu4nvBA_SsmZP25vNq4RQA">Learn jazz standards podcast</a> </li>
 <li> <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Brown1Blue youtube channel</a> </li>
+<li> <a href="https://www.nature.com">Nature</li>
+<li> <a href="https://www.sciencemag.org">Science</li>
+<li> <a href="https://www.quantamagazine.org">Quanta magazine</li>
+<li> <a href="http://nautil.us">Nautilus</li>
 </ol>
 </div>
 
@@ -147,3 +151,10 @@ for (i = 0; i < coll.length; i++) {
 
 </body>
 </html>
+
+
+
+
+
+
+[//]: # "link format to copy paste:   <li> <a href="URL">NAME</li>      "
