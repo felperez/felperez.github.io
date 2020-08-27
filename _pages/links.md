@@ -85,10 +85,10 @@ author_profile: true
 <button type="button" class="collapsible">Books</button>
 <div class="content">
 <ol>
-<li> <a href="http://staff.ustc.edu.cn/~shmj/Reference/GTM267%20Quantum%20Theory%20for%20Mathematicians.pdf">here</a> </li>
-<li> <a href="in Portuguese">here</a> </li>
-<li> <a href="http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf">here</a> </li>
-<li> <a href="https://realnotcomplex.com">here</a> </li>
+<li> <a href="http://staff.ustc.edu.cn/~shmj/Reference/GTM267%20Quantum%20Theory%20for%20Mathematicians.pdf">Quantum theory for mathematicians, Hall</a> </li>
+<li> <a href="http://w3.impa.br/~viana/out/OV3.pdf">Foundations of ergodic theory (in Portuguese), Oliveira and Viana</a> </li>
+<li> <a href="http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf">The rising sea, foundations of algebraic geometry, Ravi Vakil</a> </li>
+<li> <a href="https://realnotcomplex.com">Compilation by real not complex</a> </li>
 </ol>
 </div>
 
