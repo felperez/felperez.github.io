@@ -10,7 +10,7 @@ author_profile: true
 
 Durante este semestre dictaré una de las secciones del curso FMM133 Cálculo II de la Universidad Andrés Bello. Este curso se centra el estudio del cáculo integral, cuyo objeto de estudio es la integral de Riemann y su relación con el concepto de área. Además se estudian las integrales impropias y las series de números reales.
 
-[Syllabus del curso](/files/Calculo_2_Syllabus_2020_2.pdf)
+[Syllabus del curso](/files/calc2/Calculo_2_Syllabus_2020_2.pdf)
 
 [Pizarra Clase 1](/files/calc2/Class-1-Calculo-2.pdf)
 
