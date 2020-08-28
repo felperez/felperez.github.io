@@ -66,19 +66,19 @@ Here I will list the reading groups or seminars in which I will be participating
 
 | Date       | Speaker         | Description                                                   | Notes |
 | ---------- |:----------------|:--------------------------------------------------------------|:-----:|
-| 17/10      | Jimmy Tseng     | Symbolic spaces, Hausdorff dimension, Thermodynamic formalism | [here](/files/sess1.pdf)|
-| 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | [here](/files/sess2.pdf)|
-| 31/10      | Felipe Pérez    | Thermodynamic formalism                                       | [here](/files/sess3.pdf)|
-| 07/11       | Felipe Pérez    | Iterated functions systems, transfer operator                 | [here](/files/sess4.pdf)|
-| 14/11      | Thomas Jordan   | Julia sets, determinant formulas                              | [here](/files/sess5.pdf)|
-| 21/11      | Felipe Pérez    | Zeta functions, zeroes counting                               | [here](/files/sess6.pdf)|
+| 17/10      | Jimmy Tseng     | Symbolic spaces, Hausdorff dimension, Thermodynamic formalism | [here](/pdfs/files/sess1.pdf)|
+| 24/10      | Sebastian Muller| Non-fractal Weyl laws                                         | [here](/files/pdfs/sess2.pdf)|
+| 31/10      | Felipe Pérez    | Thermodynamic formalism                                       | [here](/files/pdfs/sess3.pdf)|
+| 07/11       | Felipe Pérez    | Iterated functions systems, transfer operator                 | [here](/files/pdfs/sess4.pdf)|
+| 14/11      | Thomas Jordan   | Julia sets, determinant formulas                              | [here](/files/pdfs/sess5.pdf)|
+| 21/11      | Felipe Pérez    | Zeta functions, zeroes counting                               | [here](/files/pdfs/sess6.pdf)|
 | 28/11      | Sebastian Muller| Non-fractal Weyl laws                                         | Lost|
 
 
 
 
-**M.I. Gordin, On the central limit for stationary processes:** this is a *very* rough translation of the paper by Gordin, where he introduced the martingale approximation method to derive statistical results in dynamical systems. [Russian original](/files/Gordin-rus.pdf)/[English translation](/files/Gordin-eng.pdf).
+**M.I. Gordin, On the central limit for stationary processes:** this is a *very* rough translation of the paper by Gordin, where he introduced the martingale approximation method to derive statistical results in dynamical systems. [Russian original](/files/pdfs/Gordin-rus.pdf)/[English translation](/files/pdfs/Gordin-eng.pdf).
 
-**Bowen's formula and transfer operators:** [here](/files/bowen.pdf). In these notes I present a sketch of the proof of the Bowen's formula for the Hausdorff dimension of the repeller of an IFS, as well as introducing notions of thermodynamic formalism.
+**Bowen's formula and transfer operators:** [here](/files/pdfs/bowen.pdf). In these notes I present a sketch of the proof of the Bowen's formula for the Hausdorff dimension of the repeller of an IFS, as well as introducing notions of thermodynamic formalism.
 
-**Sizing small sets:** [here](/files/pps.pdf). These are the slides of a talk that I gave in the Pure Postgraduate Seminar. Here I introduce the notion of Hausdorff dimension and how can it be used to compare sizes of sets of measure zero. I present some number theoretical results concerning dimensions of certain sets, as well as sketch of the connection to dynamical systems and ergodic theory.
+

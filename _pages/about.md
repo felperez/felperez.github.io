@@ -133,19 +133,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="/files/pictures/venice.jpg" style="width:100%">
+  <img src="/files/photos/venice.jpg" style="width:100%">
   <div class="text">Me in Venice</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="/files/pictures/stockholm.jpg" style="width:100%">
+  <img src="/files/photos/stockholm.jpg" style="width:100%">
   <div class="text">Me in Stockholm</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="/files/pictures/edinburgh.jpg" style="width:100%">
+  <img src="/files/photos/edinburgh.jpg" style="width:100%">
   <div class="text">Edinburgh</div>
 </div>
 
