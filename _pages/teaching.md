@@ -23,3 +23,5 @@ Durante este semestre dictaré una de las secciones del curso FMM133 Cálculo II
 [Pizarra Clase 4](/files/calc2/Class-4-Calculo-2.pdf)
 
 [Pizarra Clase 5](/files/calc2/Class-5-Calculo-2.pdf)
+
+[Tabla integrales conocidas](/files/calc2/Integrales.pdf)
