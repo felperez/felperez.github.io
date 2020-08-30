@@ -12,7 +12,7 @@ Durante este semestre dictaré una de las secciones del curso FMM133 Cálculo II
 
 [Syllabus del curso](/files/calc2/Calculo_2_Syllabus_2020_2.pdf)
 
-[Semana a semana](Semana_a_semana_2020-2.pdf)
+[Semana a semana](/files/calc2/Semana_a_semana_2020-2.pdf)
 
 [Pizarra Clase 1](/files/calc2/Class-1-Calculo-2.pdf)
 
