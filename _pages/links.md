@@ -68,6 +68,7 @@ author_profile: true
 <li> <a href="https://ai.googleblog.com/search/label/Machine%20Learning?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow">AI google</a> </li>
 <li> <a href="https://hunch.net/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow">Machine learning theory</a> </li>
 <li> <a href="https://nbviewer.jupyter.org">Jupyter notebooks viewer</a> </li>
+<li> <a href="https://saattrupdan.github.io">Dan Nielsen's blog</a></li?
 <li> <a href="https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/">Probabilistic Programming & Bayesian Methods for Hackers</a> </li>
 </ol>
 </div>
