@@ -54,6 +54,9 @@ author_profile: true
 <li> <a href="https://terrytao.wordpress.com">Terry Tao's blog</a> </li>
 <li> <a href="https://math.stackexchange.com/questions/225139/original-works-of-great-mathematicians">Original works of mathematicians</a> </li>
 <li> <a href="https://www.youtube.com/user/impabr">IMPA's youtube channel, seminars and lectures (in Portuguese)</a></li>
+<li> <a href="https://math.ucr.edu/home/baez">John Baez’s Stuff</a></li>
+<li> <a href="https://sbseminar.wordpress.com">Secret Blogging Seminar</a></li>
+<li> <a href="http://www.neverendingbooks.org">Neverendingbooks</a></li>
 </ol>
 </div>
 
