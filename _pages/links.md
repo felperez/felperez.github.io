@@ -123,6 +123,7 @@ author_profile: true
 <li> <a href="https://math.stackexchange.com/questions/1187211/why-is-the-additive-category-of-hilbert-spaces-not-abelian">The category of Hilbert spaces is not Abelian</a> </li>
 <li> <a href="https://math.stackexchange.com/questions/1945447/poincaré-recurrence-but-infinite-measure">Recurrence in infinite measure space</a> </li>
 <li> <a href="https://pdfs.semanticscholar.org/3371/3f25ed3124c7189d8166cd0d6ed451ef1511.pdf">A mathematical trivium, by Arnold</a></li> 
+<li> <a href="https://inference-review.com/article/a-country-known-only-by-name">Alexander Grothendieck, A Country Known Only by Name by Pierre Cartier</a></li> 
 </ol>
 </div>
 
