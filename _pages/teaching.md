@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+In this page I will upload the material for the classes that I am teaching/I have taught. Click on each class to expand the menu see the content.
 
 
 <html>
@@ -43,7 +44,6 @@ author_profile: true
   
 Durante este semestre dictaré una de las secciones del curso FMM133 Cálculo II de la Universidad Andrés Bello. Este curso se centra el estudio del cáculo integral, cuyo objeto de estudio es la integral de Riemann y su relación con el concepto de área. Además se estudian las integrales impropias y las series de números reales.
 <ol>
-<li> <a href="https://math.stackexchange.com">Math stack</a> </li>
 <li> <a href="/files/calc2/Calculo_2_Syllabus_2020_2.pdf">Syllabus del curso</a></li>
 <li> <a href="/files/calc2/Semana_a_semana_2020-2.pdf">Semana a semana</a> </li>
 <li> <a href="/files/calc2/Class-1-Calculo-2.pdf">Pizarra Clase 1</a> </li>
