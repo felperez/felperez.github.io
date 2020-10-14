@@ -73,6 +73,7 @@ author_profile: true
 <li> <a href="https://nbviewer.jupyter.org">Jupyter notebooks viewer</a> </li>
 <li> <a href="https://saattrupdan.github.io">Dan Nielsen's blog</a></li>
 <li> <a href="https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/">Probabilistic Programming & Bayesian Methods for Hackers</a> </li>
+<li> <a href="https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/">Causal inference</a> </li>
 </ol>
 </div>
 
