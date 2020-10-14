@@ -64,6 +64,11 @@ Durante este semestre dictaré una de las secciones del curso FMM133 Cálculo II
 <li> <a href="/files/calc2/Class-15-Calculo-2.pdf">Pizarra Clase 15</a> </li>
 <li> <a href="/files/calc2/Class-16-Calculo-2.pdf">Pizarra Clase 16</a> </li>
 <li> <a href="/files/calc2/Class-17-Calculo-2.pdf">Pizarra Clase 17</a> </li>
+<li> <a href="/files/calc2/Class-18-Calculo-2.pdf">Pizarra Clase 18</a> </li>
+<li> <a href="/files/calc2/Class-19-Calculo-2.pdf">Pizarra Clase 19</a> </li>
+<li> <a href="/files/calc2/Class-20-Calculo-2.pdf">Pizarra Clase 20</a> </li>
+<li> <a href="/files/calc2/Class-21-Calculo-2.pdf">Pizarra Clase 21</a> </li>
+<li> <a href="/files/calc2/Class-2-Calculo-2.pdf">Pizarra Clase 21</a> </li>
 </ol>
 </div>
 
